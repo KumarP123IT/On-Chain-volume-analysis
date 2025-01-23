@@ -1,13 +1,13 @@
 # On-Chain Volume Analysis Script
  This Python script retrieves and analyzes the on-chain volume for a list of cryptocurrency assets using the CoinGecko API. It fetches the market chart data for each asset and reports the volume for the last 24 hours, providing valuable insights for data analysis or cryptocurrency research.
 
-##Features
+## Features
  - API Integration: Uses CoinGecko's public API to fetch market chart data for various assets.
  - Error Handling: Includes robust error handling for API request issues and missing data.
  - Batch Asset Analysis: Loads asset names from a file and analyzes each asset sequentially.
  - Formatted Output: Displays the on-chain volume in a user-friendly format with thousands separators for readability.
 
-##Setup
+## Setup
  - Clone the repository or download the script.
      Install the required dependencies:
      ```bash
