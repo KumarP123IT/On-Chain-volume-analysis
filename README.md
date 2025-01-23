@@ -8,8 +8,12 @@
  - Formatted Output: Displays the on-chain volume in a user-friendly format with thousands separators for readability.
 
 ## Setup
- - Clone the repository or download the script.
-     Install the required dependencies:
+ - Clone the repository:
+   ```bash
+      git clone https://github.com/KumarP123IT/On-Chain-volume-analysis.git
+      cd On-Chain-volume-analysis
+   ```
+ - Install the required dependencies:
      ```bash
        pip install requests
      ```
